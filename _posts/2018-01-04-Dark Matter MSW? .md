@@ -4,7 +4,8 @@ title:      Can the neutrino mass originate from dark matter MSW effect ?
 subtitle:   a study on the neutrino mass generation mechanism 
 date:       2018-03-15
 author:     Physikiller
-header-img: img/post-bg-BJJ.jpg
+header-img: img/dark_matter.jpg
+
 catalog: true
 tags:
     - BJJ
