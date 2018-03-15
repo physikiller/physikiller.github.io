@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      中微子与暗物质的折射从而变得有质量？
+title:      中微子与暗物质折射从而变得有质量？
 subtitle:   a study on the neutrino mass generation mechanism 
 date:       2018-03-15
 author:     Physikiller
@@ -28,7 +28,7 @@ tags:
 实验上一直在寻找暗物质，但是尚未找到。关于暗物质到底是什么，人们也提出了各种五花八门的理论（WIMP,sterile neutrino,axion,fuzzy dark matter...），当然很可能只有其中一种是对的,各种暗物质寻找实验一般都只针对上述理论中的某一种猜想有效，希望很渺茫。
 
 ## 中微子质量
-中微子
+中微子应该是
 
 
 > **此处公式**
