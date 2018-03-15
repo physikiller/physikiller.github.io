@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Can the neutrino mass originate from dark matter MSW effect
+title:      Can the neutrino mass originate from dark matter MSW effect ?
 subtitle:   a study on the neutrino mass generation mechanism 
 date:       2018-03-15
 author:     Physikiller
@@ -9,8 +9,6 @@ catalog: true
 tags:
     - BJJ
 ---
-
-> 译自 [《THE BIGGEST LIE IN JIU JITSU》](http://www.jiujitsubrotherhood.com/the-biggest-lie-in-jiu-jitsu/)
 
 
 ![Marcus'Buchecha'Almeida - 现任IBJJF绝对冠军。这家伙很坚强，相信我！图片由BJJ Pix的William Burkhardt提供  。](http://mjrnxewya3t1in23ybpwjw59.wpengine.netdna-cdn.com/wp-content/uploads/buchecha-marcus-almeida-roger-gracie.jpg)
