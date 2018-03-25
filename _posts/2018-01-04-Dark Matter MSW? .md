@@ -41,4 +41,4 @@ tags:
 
 [这篇文章](http://www.jiujitsubrotherhood.com/brazilian-jiu-jitsu-tips-a-c-t-model/)中找到答案。
 
-真正
+真正s
